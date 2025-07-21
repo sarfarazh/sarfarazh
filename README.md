@@ -52,32 +52,57 @@ const CTO = {
 ### 🧰 My Tools & Stack
 
 #### 🧠 Backend  
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Pydantic](https://img.shields.io/badge/Pydantic-181717?style=flat&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
-[![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)](https://docs.celeryq.dev/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
+[![Pydantic](https://img.shields.io/badge/Pydantic-181717?style=flat&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)  
+[![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)](https://docs.celeryq.dev/)  
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 #### 🧬 AI / Media  
-[![OpenRouter](https://img.shields.io/badge/OpenRouter-6E44FF?style=flat&logo=openai&logoColor=white)](https://openrouter.ai/)
-[![GPT-4o](https://img.shields.io/badge/GPT--4o-000000?style=flat&logo=openai&logoColor=white)](https://openai.com/)
-[![PlayHT](https://img.shields.io/badge/PlayHT-101010?style=flat&logo=audiomack&logoColor=white)](https://play.ht/)
-[![Fal](https://img.shields.io/badge/Fal-222222?style=flat&logo=python&logoColor=white)](https://fal.ai/)
-[![Remotion](https://img.shields.io/badge/Remotion-000000?style=flat&logo=react&logoColor=white)](https://remotion.dev/)
-[![Whisper](https://img.shields.io/badge/Whisper-2C2C2C?style=flat&logo=openai&logoColor=white)](https://openai.com/research/whisper)
+[![OpenRouter](https://img.shields.io/badge/OpenRouter-6E44FF?style=flat&logo=openai&logoColor=white)](https://openrouter.ai/)  
+[![GPT-4o](https://img.shields.io/badge/GPT--4o-000000?style=flat&logo=openai&logoColor=white)](https://openai.com/)  
+[![PlayHT](https://img.shields.io/badge/PlayHT-101010?style=flat&logo=audiomack&logoColor=white)](https://play.ht/)  
+[![Fal](https://img.shields.io/badge/Fal-222222?style=flat&logo=python&logoColor=white)](https://fal.ai/)  
+[![Remotion](https://img.shields.io/badge/Remotion-000000?style=flat&logo=react&logoColor=white)](https://remotion.dev/)  
+[![Whisper](https://img.shields.io/badge/Whisper-2C2C2C?style=flat&logo=openai&logoColor=white)](https://openai.com/research/whisper)  
+[![ComfyUI](https://img.shields.io/badge/ComfyUI-444444?style=flat&logo=python&logoColor=white)](https://github.com/comfyanonymous/ComfyUI)  
+[![Flux](https://img.shields.io/badge/Flux_AI-000000?style=flat&logo=lightning&logoColor=white)](#)  
+[![WAN](https://img.shields.io/badge/WAN_Model-000000?style=flat&logo=brain&logoColor=white)](#)  
+[![LTX](https://img.shields.io/badge/LTX_Model-111111?style=flat&logo=openai&logoColor=white)](#)  
+[![Hunyuan](https://img.shields.io/badge/Hunyuan-000000?style=flat&logo=tencent&logoColor=white)](#)
 
 #### ⚙️ DevOps  
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
-[![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)](https://traefik.io/)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://cloudflare.com/)
-[![Authelia](https://img.shields.io/badge/Authelia-000000?style=flat&logo=auth0&logoColor=white)](https://www.authelia.com/)
-[![WSL2](https://img.shields.io/badge/WSL2-0078D6?style=flat&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/wsl/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)  
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)  
+[![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)](https://traefik.io/)  
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://cloudflare.com/)  
+[![Authelia](https://img.shields.io/badge/Authelia-000000?style=flat&logo=auth0&logoColor=white)](https://www.authelia.com/)  
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)  
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/)  
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 
 #### 🎨 Frontend  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)  
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactnative.dev/)  
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)  
 [![ShadCN/UI](https://img.shields.io/badge/ShadCN/UI-000000?style=flat&logo=react&logoColor=white)](https://ui.shadcn.dev/)
+
+#### 💻 IDEs & Code Tools  
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)  
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)](https://cursor.sh/)  
+[![Claude Code](https://img.shields.io/badge/Claude_Code-202020?style=flat&logo=anthropic&logoColor=white)](#)  
+[![Bolt](https://img.shields.io/badge/Bolt_IDE-181818?style=flat&logo=zap&logoColor=white)](#)  
+[![Lovable](https://img.shields.io/badge/Lovable_AI-000000?style=flat&logo=sparkles&logoColor=white)](#)
+
+#### 🎨 Design / Video  
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://figma.com/)  
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)](https://www.canva.com/)  
+[![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat&logo=blackmagicdesign&logoColor=white)](https://www.blackmagicdesign.com/products/davinciresolve/)
+
+#### 🎮 3D / Game Dev  
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)](https://www.blender.org/)  
+[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)  
+[![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
+
 
 
 ### 🧪 What I’m Exploring Now
