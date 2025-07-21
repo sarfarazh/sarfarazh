@@ -8,66 +8,80 @@
 ```ts
 // mindset.ts
 const CTO = {
-  title: 'Builder of Flows',
-  prefers: ['.env everywhere', 'modular codebases', 'design clarity'],
-  stack: ['FastAPI', 'Supabase', 'Docker', 'Next.js', 'Remotion'],
-  known_for: ['AI Storytelling', 'LLM pipelines', 'Infra automation'],
-  motto: 'Think like a CTO. Build like a designer.'
+  title: 'Flow Architect',
+  prefers: ['.env everywhere', 'Pydantic models', 'modular APIs', 'UX-first code'],
+  stack: ['FastAPI', 'Supabase', 'Docker', 'Remotion', 'Next.js'],
+  vision: 'Build AI-native platforms that scale with elegance and intent.'
 }
 ```
 
 ---
 
-### 🛠️ Current Projects
+### 🚀 Projects
 
 #### 🧠 **Lumera**  
-*AI-native storytelling engine built for modular generation and feedback loops*
+*An AI-native storytelling engine that generates, evolves, and visualizes narrative worlds.*
 
-> Scene-by-scene story generation with dynamic arcs, real-time progress, and seamless output integration across OpenRouter, Supabase, and Remotion Lambda.
+> Stories crafted one scene at a time, with dynamic arcs, rich characters, and cinematic video output—integrated through OpenRouter, Supabase, and Remotion Lambda.
 
-- GPT-4o, SWAG narrative engine, WebSocket updates
-- Supabase for metadata, credits, and logs
-- Multi-step Celery pipelines (voice, script, image, video)
+- GPT‑4o + SWAG narrative templates  
+- Scene → Character → Voice → Slide → Video  
+- Celery + WebSockets + Supabase logs  
 
 ---
 
 #### 📹 **PostMyVideo**  
-*Automated faceless video production platform for YouTube Shorts & Reels*
+*Automated short-form video creator for faceless content.*
 
-> Script → Voice → Image → Video → Upload. Uses structured `video_settings.json` and chained task orchestration for full-stack automation.
+> From structured prompts to final upload, it handles voiceovers, visuals, subtitles, and rendering—driven by JSON configs and async chains.
 
-- PlayHT, Fal, FFmpeg WASM, Remotion
-- Trigger.dev + SNS for async event handling
-- Built to scale flows, not just render videos
+- PlayHT + Fal + FFmpeg WASM + Remotion  
+- Trigger.dev + SNS for orchestration  
+- Built for YouTube Shorts, reels, listicles  
 
 ---
 
 #### 🔍 **Crimatrix**  
-*Compliance dashboard and communication bridge for hospitality & law enforcement*
+*Secure operations platform for compliance and field-level coordination.*
 
-> Secure workflows, data sync, and monitoring infrastructure — designed for real-world deployments. Privacy-respecting, role-restricted access, and Supabase-powered audit trails.
+> Real-time dashboards, streamlined data sync, and private role-based access built with performance and accountability in mind.
 
-- FastAPI + Supabase + Postgres
-- Built for reliability and oversight
-- UI tailored to operational simplicity
+- FastAPI + Supabase  
+- Audit-ready, extensible  
+- Clean UI, operational clarity  
 
 ---
 
 ### 🧰 My Tools & Stack
 
-| Backend | AI/Media | DevOps | Frontend |
-|--------|----------|--------|----------|
-| FastAPI · Pydantic · Celery | GPT-4o · OpenRouter · PlayHT · Fal · Remotion · Whisper | Docker · RabbitMQ · Traefik · Cloudflare · Authelia · WSL2 | Next.js · React Native · Tailwind · ShadCN |
+<table>
+  <tr>
+    <th>🧠 Backend</th>
+    <td>FastAPI · Pydantic · Celery · PostgreSQL</td>
+  </tr>
+  <tr>
+    <th>🧬 AI / Media</th>
+    <td>GPT-4o · OpenRouter · PlayHT · Fal · Remotion · Whisper</td>
+  </tr>
+  <tr>
+    <th>⚙️ DevOps</th>
+    <td>Docker · RabbitMQ · Traefik · Cloudflare · Authelia · WSL2</td>
+  </tr>
+  <tr>
+    <th>🎨 Frontend</th>
+    <td>Next.js · React Native · Tailwind · ShadCN/UI</td>
+  </tr>
+</table>
 
 ---
 
-### 🧪 Current Focus
+### 🧪 What I’m Exploring Now
 
-- ✅ Real-time WebSocket updates for async pipelines  
-- ✅ Supabase-only schema for all auth/data/logs  
-- ✅ Multi-shot prompting for Veo3, Hunyuan, and Kling  
-- ✅ Offline-friendly mobile apps with full session sync  
-- ✅ Auto-rendered story pipelines from prompt to publish  
+- ⬢ Real-time feedback using WebSockets across LLM chains  
+- ⬢ Supabase schema-first product backends  
+- ⬢ Multi-shot Veo/Hunyuan prompting flows  
+- ⬢ Story-based video pipelines from a single seed  
+- ⬢ Clean, portable infra: `.env`, Docker, and RabbitMQ first  
 
 ---
 
@@ -82,8 +96,8 @@ const CTO = {
 
 ### 🌐 Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome)](https://sarfarazh.xyz)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarfarazhassan)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome)](https://sarfarazh.xyz)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarfarazhassan)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarfarazhassan)
 
 ---
