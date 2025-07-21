@@ -19,6 +19,18 @@ const CTO = {
 
 ### 🚀 Projects
 
+#### 🔍 **Crimatrix**  
+*Secure field intelligence and compliance platform connecting law enforcement with the hospitality sector.*
+
+> Built to track high-stakes guest activity, streamline hotel inspections, and manage lookouts with operational speed and clarity. Crimatrix empowers authorized personnel with real-time data, structured workflows, and actionable insights—without exposing sensitive infrastructure.
+
+- FastAPI + Supabase (RBAC, audit logs, dashboards)  
+- Distinct frontends for Admin, Enforcement, and Field Agents  
+- Built with privacy, accountability, and human error-proofing in mind  
+- Deployed with Docker, Traefik, Authelia, and Cloudflare  
+
+---
+
 #### 🧠 **Lumera**  
 *An AI-native storytelling engine that generates, evolves, and visualizes narrative worlds.*
 
@@ -30,25 +42,10 @@ const CTO = {
 
 ---
 
-#### 📹 **PostMyVideo**  
-*Automated short-form video creator for faceless content.*
+#### 🛸 **[Stealth Project]**  
+*Exploring presence, control, and cognition—where XR meets BCI.*
 
-> From structured prompts to final upload, it handles voiceovers, visuals, subtitles, and rendering—driven by JSON configs and async chains.
-
-- PlayHT + Fal + FFmpeg WASM + Remotion  
-- Trigger.dev + SNS for orchestration  
-- Built for YouTube Shorts, reels, listicles  
-
----
-
-#### 🔍 **Crimatrix**  
-*Secure operations platform for compliance and field-level coordination.*
-
-> Real-time dashboards, streamlined data sync, and private role-based access built with performance and accountability in mind.
-
-- FastAPI + Supabase  
-- Audit-ready, extensible  
-- Clean UI, operational clarity  
+> Not coming soon.
 
 ---
 
